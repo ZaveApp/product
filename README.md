@@ -32,10 +32,10 @@ Tracks what music an individual listens to, and pairs them with others based on 
 -
 
 **Team Roles**
-  - Yasin 
-  - Joe 
-  - Bahti 
-  - Kevin
+- Yasin 
+- Joe 
+- Bahti 
+- Kevin
 
 
 ## Product Spec
@@ -49,30 +49,12 @@ Tracks what music an individual listens to, and pairs them with others based on 
 
 ### 2. Screen Archetypes
 
-* Login 
-* Register - User signs up or logs into their account
-   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
-   * ...
-* Messaging Screen - Chat for users to communicate (direct 1-on-1)
-   * Upon selecting music choice users matched and message screen opens
-* Profile Screen 
-   * Allows user to upload a photo and fill in information that is interesting to them and others
-* Song Selection Screen.
-   * Allows user to be able to choose their desired song, artist, genre of preference and begin listening and interacting with others.
-* Settings Screen
-   * Lets people change language, and app notification settings.
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* Music selection
-* Profile
-* Settings
 
-Optional:
-* Music/Encounter Queue
-* Discover (Top Choices)
 
 **Flow Navigation** (Screen to Screen)
 
@@ -101,6 +83,8 @@ Optional:
 ## Roadblocks
 
 ## Useful Links
+- [Codepath Readme Suggestion](https://github.com/codepath/me102_group_project_example#Product-Spec)
+- [Super-Dope past project Readme - HackNYU](https://github.com/matthewbrod01/Uplift)
 
 
 [Back to top](#contents)
