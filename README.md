@@ -24,30 +24,30 @@ Tracks what music an individual listens to, and pairs them with others based on 
 
 
 ### Team Delegation
-**Our Dev Phases**
-- Stage 1 : Wireframe on paper and Marvel
-- Stage 2 : Simulator Mockup
-- Stage 3 : Real Time Users
-- Stage 4 : Plan Trips, Suggested Routes
-- Stage 5 : Profile and Payments
-
 **Team Roles**
-- Yasin 
-- Joe 
-- Bahti 
-- Kevin
+- Yasin  : Trips
+- Joseph : User Authentication/Profile
+- Bahti  : Maps
+- Kevin  : Messaging
 
 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
-
-**Required Must-have Stories (Stages 1-3)**
-
-
-**Optional Nice-to-have Stories (Stages 4-5)**
-
+**Our Dev Phases**
+- Stage 1 : Wireframe on paper and Marvel (Required)
+- Stage 2 : Simulator Mockup (Required)
+- Stage 3 : Real Time Users (Required)
+- Stage 4 : Plan Trips, Suggested Routes (Optional)
+- Stage 5 : Profile and Payments (Optional)
 
 ### 2. Screen Archetypes
+- Login
+- Register (User sign up for an account)
+- Trip Details 
+  - User enters their destination, preferred arrival time, and preferred rideshares
+- Possible Trips
+  - Shows the user's current location
+  - Shows current nearby users
 
 
 ### 3. Navigation
