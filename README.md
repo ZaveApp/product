@@ -28,7 +28,7 @@ Tracks what music an individual listens to, and pairs them with others based on 
 - Yasin  : Trips
 - Joseph : User Authentication/Profile
 - Bahti  : Maps
-- Kevin .: Messaging
+- Kevin  : Messaging
 
 
 ## Product Spec
