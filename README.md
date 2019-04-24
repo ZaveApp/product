@@ -26,10 +26,10 @@ Tracks what music an individual listens to, and pairs them with others based on 
 ### Team Delegation
 **Our Dev Phases**
 - Stage 1 : Wireframe on paper and Marvel
-- Stage 2 :
-- Stage 
--
--
+- Stage 2 : Simulator Mockup
+- Stage 3 : Real Time Users
+- Stage 4 : Plan Trips, Suggested Routes
+- Stage 5 : Profile and Payments
 
 **Team Roles**
 - Yasin 
