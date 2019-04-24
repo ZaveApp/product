@@ -24,14 +24,14 @@ Tracks what music an individual listens to, and pairs them with others based on 
 
 
 ### Team Delegation
-We are splitting our dev into five phases or stages
-  - Stage 1 : Wireframe on paper and Marvel
-  - Stage 2 :
-  - Stage 
-  -
-  -
+**Our Dev Phases**
+- Stage 1 : Wireframe on paper and Marvel
+- Stage 2 :
+- Stage 
+-
+-
 
-- Team Roles 
+**Team Roles**
   - Yasin 
   - Joe 
   - Bahti 
