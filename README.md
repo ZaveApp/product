@@ -70,11 +70,12 @@ Making it easier for people to carpool by saving them money by finding similar d
 <img src="https://i.imgur.com/AiKfE5g.gif" width=200>
 
 ## Schema 
-### Models
-#### Post
+- Google Firebase
+- Google Storage
 
-#### List of network requests by screen
-  
+#### List of network requests
+- Google Maps API
+- Uber API
 
 #### [OPTIONAL:] Existing API Endpoints
 
