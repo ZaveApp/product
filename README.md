@@ -53,11 +53,11 @@ Making it easier for people to carpool by saving them money by finding similar d
 ### 3. Navigation
 
 **Flow Navigation** (Screen to Screen)
-a. Forced Log-in -> Account creation if no log in is available
-b. Set Destination, Arrival Time, and preferred number of people that you would want in the rideshare
-c. Shows all the nearby users in current location heading in the same direction as you as well as rideshare options and to choose from
-d. After clicking the rideshare option, User is shown more details of the chosen rideshare option with ratings of the people in the rideshare, as well as a confirmation of the rideshare -> if decline then brought back to (c)
-e. User is brought to a messaging VC to determine with potential users of that rideshare where to meetup
+- a. Forced Log-in -> Account creation if no log in is available
+- b. Set Destination, Arrival Time, and preferred number of people that you would want in the rideshare
+- c. Shows all the nearby users in current location heading in the same direction as you as well as rideshare options and to choose from
+- d. After clicking the rideshare option, User is shown more details of the chosen rideshare option with ratings of the people in the rideshare, as well as a confirmation of the rideshare -> if decline then brought back to (c)
+- e. User is brought to a messaging VC to determine with potential users of that rideshare where to meetup
 
 
 ## Wireframes
