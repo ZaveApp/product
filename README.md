@@ -61,7 +61,7 @@ Making it easier for people to carpool by saving them money by finding similar d
 
 
 ## Wireframes
-![paper sketch](demo/wireframe2.jpeg)
+![paper sketch](demo/wireframe2.jpg)
 
 ### [BONUS] Digital Wireframes & Mockups
 ![irtinary](demo/1.gif)
