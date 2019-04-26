@@ -5,7 +5,7 @@
 - [Product Spec](#Product-Spec)
 - [Wireframes](#Wireframes)
 - [Schema](#Schema)
-- [Stand-Ups](#Stand-Ups)
+- [Project Management](#Project-Management)
 - [Roadblocks](#Roadblocks)
 - [Useful Links](#[Useful-Links)
 
@@ -75,14 +75,16 @@ Making it easier for people to carpool by saving them money by finding similar d
 #### [OPTIONAL:] Existing API Endpoints
 
 
-## Stand-Ups
+## Project Management
 ### Team Delegation
 - __Yasin__ : Trips + git master
 - __Joseph__ : oAuth/Profile + requirements
 - __Bahti__  : Maps + algorithm
 - __Kevin__  : Messaging + presentation 
 
-### Trello Boards
+![Trello](trello/labels.png)
+
+### Stand-ups
 - 4.24.19
 ![board](trello/4-24.png)
 
