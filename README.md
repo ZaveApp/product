@@ -23,14 +23,6 @@ Making it easier for people to carpool by saving them money by finding similar d
 - **Scope:** This initially would act as a feature for rideshare companies, following the end product of this application, it can be implemented into various rideshare applications such as Uber and Lyft
 
 
-### Team Delegation
-**Team Roles**
-- Yasin  : Trips
-- Joseph : User Authentication/Profile
-- Bahti  : Maps
-- Kevin  : Messaging
-
-
 ## Product Spec
 ### 1. User Stories (Required and Optional)
 **Our Dev Phases**
@@ -84,6 +76,15 @@ Making it easier for people to carpool by saving them money by finding similar d
 
 
 ## Stand-Ups
+### Team Delegation
+- __Yasin__ : Trips + git master
+- __Joseph__ : User Authentication/Profile + requirements
+- __Bahti__  : Maps + algorithm
+- __Kevin__  : Messaging + presentation 
+
+### Trello Boards
+- 4.24.19
+![board]
 
 ## Roadblocks
 
