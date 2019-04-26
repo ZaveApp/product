@@ -84,7 +84,7 @@ Making it easier for people to carpool by saving them money by finding similar d
 
 ### Trello Boards
 - 4.24.19
-![board]
+![board](trello/4-24.png)
 
 ## Roadblocks
 
