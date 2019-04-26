@@ -61,13 +61,16 @@ Making it easier for people to carpool by saving them money by finding similar d
 
 
 ## Wireframes
-<img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
+![paper sketch](demo/wireframe2.jpeg)
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://i.imgur.com/lYHn37F.jpg" height=200>
+![irtinary](demo/1.gif)
+![trips](demo/2.gif)
+![details](demo/3.gif)
+![messages](demo/4.gif)
 
 ### [BONUS] Interactive Prototype
-<img src="https://i.imgur.com/AiKfE5g.gif" width=200>
+![vide walkthrough](demo/marvel-demo.gif)
 
 ## Schema 
 - Google Firebase
