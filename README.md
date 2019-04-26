@@ -78,7 +78,7 @@ Making it easier for people to carpool by saving them money by finding similar d
 ## Stand-Ups
 ### Team Delegation
 - __Yasin__ : Trips + git master
-- __Joseph__ : User Authentication/Profile + requirements
+- __Joseph__ : oAuth/Profile + requirements
 - __Bahti__  : Maps + algorithm
 - __Kevin__  : Messaging + presentation 
 
